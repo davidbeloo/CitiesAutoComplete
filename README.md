@@ -2,7 +2,6 @@
 
 Auto complete EditText for cities, using Google Places
 
-https://cloud.githubusercontent.com/assets/4125349/8894778/4076509a-33cb-11e5-845d-e6268c6542b7.gif
 
 This git based on this great tutorial by Alex Melnykov:
 
