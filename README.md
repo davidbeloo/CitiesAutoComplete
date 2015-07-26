@@ -1,4 +1,4 @@
-# citiesautocomplete
+# CitiesAutoComplete
 Auto complete EditText for cities, using Google Places
 
 
